@@ -24,15 +24,12 @@ body{
     justify-content: center;
     border-radius: 20px;
      box-shadow: 10px 10px  hsl(0, 0%, 0%, 5);
+      border: 2px solid hsl(0, 0%, 7%);
 }
 h2{
      font-weight: 800;
      width:350px;
-     white-space: nowrap;
-     
-       
-      
-    
+     white-space: nowrap;  
 }
 .image{
 border-radius: 16px;
